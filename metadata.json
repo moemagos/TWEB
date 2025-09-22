@@ -1,0 +1,5 @@
+{
+  "name": "GeoTimbra",
+  "description": "Un prototipo di applicazione per la timbratura geolocalizzata dei dipendenti, che permette di registrare entrate e uscite con la posizione GPS e visualizzare lo storico.",
+  "requestFramePermissions": []
+}
